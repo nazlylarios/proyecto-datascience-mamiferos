@@ -1,10 +1,8 @@
 # Patrones de la comunidad de mamíferos en una reserva de la Selva Maya
 
-Proyecto final de la materia **Ciencia de Datos** (Maestría en Ciencias Biológicas, UNAM).
+Proyecto final de la materia **Ciencia de Datos en Biología**
 
 **Objetivo:** explorar patrones en las comunidades de mamíferos medianos y grandes registrados con cámaras trampa y evaluar su relación con variables ambientales mediante análisis multivariado y aprendizaje automático.
-
-📄 **Ver el reporte completo:** [index.html](index.html) (o la versión publicada en GitHub Pages).
 
 ## Flujo de análisis
 
