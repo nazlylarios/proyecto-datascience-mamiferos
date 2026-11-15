@@ -1,0 +1,11 @@
+# Datos crudos (no publicar)
+bases/
+*.csv
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+
+# Sistema
+.DS_Store
+Thumbs.db
