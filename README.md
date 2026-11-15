@@ -25,13 +25,6 @@ La cobertura de bosque maduro fue la variable más importante en el Random Fores
 
 Python · pandas · NumPy · scikit-learn · SciPy · matplotlib · seaborn · Jupyter
 
-## Cómo reproducir
-
-```bash
-pip install -r requirements.txt
-jupyter notebook proyecto.ipynb
-```
-
 > Los datos de registros de cámaras trampa no se incluyen en el repositorio.
 
 ## Autora
